@@ -1,0 +1,12 @@
+package DataTypes;
+
+public class FristProgram {
+p
+   public static void main(String args[])
+   {
+	   
+	System.out.println("Hello World") ;   
+  
+   }	
+   
+}
