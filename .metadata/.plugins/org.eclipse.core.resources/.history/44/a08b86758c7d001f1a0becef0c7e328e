@@ -1,0 +1,16 @@
+package DataTypes;
+
+public class Variables {
+
+	public static void main(String[] args) 
+	{		
+		// Data Types 
+		int b = 30 ; // Integer Data Type  
+		char c = 'u';  // Character Data Type
+		double d = 123.45; // Double or Float Data Type
+		boolean e = true ;
+      System.out.println(c);
+      
+	}
+
+}

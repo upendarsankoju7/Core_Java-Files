@@ -1,0 +1,13 @@
+package DataTypes;
+
+import java.io.Console;
+
+public class FristProgram {
+
+   public static void main(String args[])
+   {
+	String a = "Upendar";
+	System.out.println(a);
+   }	
+   
+}

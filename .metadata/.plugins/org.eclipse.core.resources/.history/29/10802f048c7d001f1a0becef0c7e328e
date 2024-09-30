@@ -1,0 +1,13 @@
+package DataTypes;
+
+public class Variables {
+
+	public static void main(String[] args) 
+	{		
+		// Data Types 
+      char x = 'upendar' ; 
+      System.out.println(a);
+      
+	}
+
+}
