@@ -1,0 +1,24 @@
+package DataTypes;
+
+public class Control_Statements_3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method 
+
+		int a = 100;
+		int b = 200;
+		int c = 300;
+		
+		if(a>b && a>c) 
+		{
+			System.out.print("A Largest Number");
+		}
+		else if ( b>a && b>a ) 
+		{
+	    
+			System.out.print();
+			
+		}
+	}
+
+}

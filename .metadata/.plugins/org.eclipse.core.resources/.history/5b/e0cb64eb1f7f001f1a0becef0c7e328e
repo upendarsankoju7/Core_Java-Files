@@ -1,0 +1,25 @@
+package DataTypes;
+
+public class Control_Statements_2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int x = 100;
+		int y = 200;
+		
+		if(x>y) 
+		{
+			
+			System.out.println("X Is Largest Number");
+			
+		}
+		else 
+		{
+		System.out.println("Y is a Largest Number")	;
+			
+		}
+
+	}
+
+}
