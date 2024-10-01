@@ -38,7 +38,7 @@ public class Control_Statements_4 {
 		} 
 		// If Day is not between 1 and 7, print invalid number
 		else {
-			System.out.println("Invalid Week Number ");   
+			System.out.println("Invalid Number");   
 		}
 	}
 }
