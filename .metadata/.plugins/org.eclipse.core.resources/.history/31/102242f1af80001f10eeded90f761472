@@ -47,7 +47,7 @@ public class While_Loop {
     	while (i>0) 
     	{
     	System.out.println(i);
-    	i--;
+    	i--;s
     		
     	}
     	

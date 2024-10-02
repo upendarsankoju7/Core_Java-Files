@@ -22,35 +22,26 @@ public class While_Loop {
         // Example 2: Active Code (prints even numbers from 2 to 100)
 
         // Initialize a variable 'a' with the value 2
-       // int a = 2;
+        int a = 2;
        
         // A while loop that runs as long as 'a' is less than or equal to 100
-        //while (a <= 100) {
+        while (a <= 100) {
             // Print the current value of 'a'
-          //  System.out.println(a);
+            System.out.println(a);
             
             // Increment 'a' by 2 (to print even numbers)
-            //a = a + 2;
-        //}
+            a = a + 2;
+        }
        
-        //int b = 1;
+        int b = 1;
 
         // A while loop that runs as long as 'b' is less than or equal to 10
-          //  while(b <= 10) 
-            //{
+            while(b <= 10) 
+            {
 
-              //  System.out.println(b);
-              //   b=b+2;
-            // }
-    	int i = 10;
-    	 
-    	while (i>0) 
-    	{
-    	System.out.println(i);
-    	i--;
-    		
-    	}
-    	
+                System.out.println(b);
+                b++;
+            }
 
 
 
