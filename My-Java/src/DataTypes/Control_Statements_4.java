@@ -6,7 +6,7 @@ public class Control_Statements_4 {
 		// TODO Auto-generated method stub
 		
 		// Declaring an integer variable Day with value 3
-		int Day = 10;
+		int Day = 3;
        
 		// Check if Day equals 1
 		if (Day == 1) {
@@ -36,6 +36,7 @@ public class Control_Statements_4 {
 		else if (Day == 7) {
 			System.out.println("Saturday");   
 		} 
+		
 		// If Day is not between 1 and 7, print invalid number
 		else {
 			System.out.println("Invalid Week Number ");   
