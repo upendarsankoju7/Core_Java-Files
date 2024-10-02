@@ -1,0 +1,10 @@
+package DataTypes;
+
+public class Jumping_Statements_Continue {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
