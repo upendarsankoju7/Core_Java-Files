@@ -1,0 +1,18 @@
+package DataTypes;
+
+public class Single_dim_2 {
+
+    public static void main(String[] args) {
+        // TODO Auto-generated method stub
+
+        int a[] = {100, 200, 300, 400, 500, 600, 700, 800}; 
+        int b[] = {1,2,3,4,5,6,7,8,9,10};
+
+        System.out.println(a.length);  // This prints the length of the array
+        
+        for (int i = 0; i < a.length; i++) {  // Loop through the array
+            System.out.println(a[i]);  // Print the element at index i
+            
+        }
+    }
+}
