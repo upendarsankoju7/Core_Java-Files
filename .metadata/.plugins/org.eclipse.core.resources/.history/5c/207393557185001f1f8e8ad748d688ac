@@ -1,0 +1,19 @@
+package DataTypes;
+
+public class Double_Dimensional_Array_2 {
+
+    public static void main(String[] args) {
+        int a[][] = { { 1, 2 }, { 3, 4 }, { 5, 6 }, { 7, 8 } };
+
+        System.out.println("Number of rows: " + a.length);
+        System.out.println("Number of columns: " + a[0].length);
+
+        for (int r[] : a) {
+            for (int i : r) {
+                System.out.print(i + " ");
+            }
+            // Print a new line after each row
+            System.out.println();
+        }
+    }
+}

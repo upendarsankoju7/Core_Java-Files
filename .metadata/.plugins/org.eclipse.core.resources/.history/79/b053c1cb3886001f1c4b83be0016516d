@@ -1,0 +1,27 @@
+package DataTypes;
+
+public class Double_Dimentional_Array_4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int a[]= {10,20,30,40,50,60,70,80,90};
+		
+		int Sum=0;
+
+		for (int i:a) 
+		{
+			Sum=Sum+i;
+			
+		}
+		
+		
+	
+		 		
+		
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,21 @@
+	package DataTypes;
+
+	public class Double_DImestional_Array_2 {
+
+	    public static void main(String[] args) {
+	        int a[][] = {{1, 2}, {3, 4}, {5, 6}, {7, 8}};
+
+	        System.out.println("Number of rows: " + a.length);
+	        System.out.println("Number of columns: " + a[0].length);
+
+	        // Iterate through the 2D array
+	        for (int r[] : a) {
+	            for (int i : r) {
+	                System.out.print(i + "\t"); // Use tab for spacing
+	            }
+	            System.out.println(); // Move to the next line after each row
+	        }
+	    }
+	}
+
+

@@ -1,0 +1,31 @@
+package DataTypes;
+
+public class Single_Dimention_3 {
+
+    public static void main(String[] args) {
+        // Declare a 2D array with 3 rows and 2 columns
+        int a[][] = new int[3][2];
+
+        // Assign values to the 2D array
+        a[0][0] = 100; // Assign value to row 0, column 0
+        a[0][1] = 200; // Assign value to row 0, column 1
+        
+        a[0][0] = 300; // This overwrites the value at [0][0] with 300
+        a[1][1] = 400; // Assign value to row 1, column 1
+        
+        a[2][0] = 500; // Assign value to row 2, column 0
+        a[2][1] = 600; // Assign value to row 2, column 1
+        
+          System.out.println("Number of Rows"+ a.length);
+          System.out.println("Number of Colums"+ a[0].length);
+          
+          for(int i=0; i<a.length;i++) 
+          {
+        	System.out.println(i);  
+          }
+          
+          
+
+      
+    }
+}
